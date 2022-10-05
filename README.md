@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @BBBUVANESH
+- 👀 I’m interested in DATA SCIENCE...
+- 🌱 I’m currently learning MACHIN LEARNING,DATA ANALYST...
+- 📫 How to reach me message me on github ...
+
+<!---
+BBBUVANESH/BBBUVANESH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
